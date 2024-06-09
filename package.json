@@ -1,0 +1,11 @@
+{
+  "name": "pro_2",
+  "version": "1.0.0",
+  "description": "creat like Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khan",
+  "license": "ISC"
+}
